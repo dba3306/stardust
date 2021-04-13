@@ -1,6 +1,6 @@
 # stardust
 
-[![Build Status](https://travis-ci.org/cnych/starjazz.svg?branch=master)](https://travis-ci.org/cnych/starjazz)
+[![Build Status](https://travis-ci.org/dba3306/starjazz.svg?branch=master)](https://travis-ci.org/dba3306/starjazz)
 
 stardust for go, this is a tooset for golang in daily development~
 
