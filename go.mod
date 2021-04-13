@@ -1,4 +1,4 @@
-module stardust
+module github.com/dba3306/stardust
 
 go 1.15
 
